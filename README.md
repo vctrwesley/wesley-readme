@@ -2,6 +2,7 @@
 
 Olá! 👋 Meu nome é Victor Wesley, estudante de Ciência da Computação na UFC - Campus de Russas. Atualmente estou cursando o 5º semestre e sou monitor das disciplinas de Algoritmos em Grafos e Fundamentos da Programação. Além disso, faço parte do time GARU, um projeto dentro do LTI.
 
+
 ## Interesses e Experiências
 
 Estou muito interessado em me candidatar para uma das vagas disponíveis, pois me identifico com as áreas que pretendo seguir profissionalmente e que fazem parte do meu dia a dia.
